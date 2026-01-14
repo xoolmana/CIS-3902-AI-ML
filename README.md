@@ -1,7 +1,7 @@
 # CIS 3902 – AI and Machine Learning
  
-Name: Anthony Holden
-Major: Computer Science
-Semester: Spring 2026
+<p>Name: Anthony Holden</p>
+<p>Major: Computer Science</p>
+<p>Semester: Spring 2026</p>
  
 This repository contains coursework and projects for CIS 3902.
