@@ -12,6 +12,7 @@ This repository contains coursework and projects for CIS 3902.
   Reading Files in Jupyter
  </a>
 </p>
+
 ## Exploring Bias Variance in Linear Regression
 <p>
  <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
