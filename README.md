@@ -19,3 +19,10 @@ This repository contains coursework and projects for CIS 3902.
   Bias Variance in Linear Regression
  </a>
 </p>
+
+## Regularization 
+<p>
+ <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/regularization.ipynb">
+  Regularization 
+ </a>
+</p>
