@@ -15,7 +15,7 @@ This repository contains coursework and projects for CIS 3902.
 
 ## Exploring Bias Variance in Linear Regression
 <p>
- <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb">
+ <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb">
   Bias Variance in Linear Regression
  </a>
 </p>
