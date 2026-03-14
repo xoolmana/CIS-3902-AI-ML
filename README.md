@@ -26,3 +26,10 @@ This repository contains coursework and projects for CIS 3902.
   Regularization 
  </a>
 </p>
+
+## Decision Trees 
+<p>
+ <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/Mushroom_Reduced_Student.ipynb">
+  Decision Trees 
+ </a>
+</p>
