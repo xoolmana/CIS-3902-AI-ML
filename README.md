@@ -33,3 +33,11 @@ This repository contains coursework and projects for CIS 3902.
   Decision Trees 
  </a>
 </p>
+
+
+## Random Forest Crime Prediction
+<p>
+ <a href="https://github.com/xoolmana/CIS-3902-AI-ML/blob/main/Random_Forest_Crime_Lab.ipynb">
+  DRandom Forest Crime Prediction 
+ </a>
+</p>
